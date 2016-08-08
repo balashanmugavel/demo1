@@ -6,6 +6,6 @@
 
 public class Hello {                       // Everything in Java is a class
   public static void main(String[] args) { // All programs must have main()
-    System.out.println("Hello APPPTIVO!");    // Say hello!
+    System.out.println("Hello APPPTIVO Sysops!");    // Say hello!
   }                                        // This marks the end of main()
 }                                          // Marks the end of the Hello class
